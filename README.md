@@ -1,4 +1,4 @@
-# Clínica Veterinaria Móvil 獣医
+# Clínica Veterinaria Móvil
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9.23-7F52FF?style=for-the-badge&logo=kotlin)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-1.6.7-4285F4?style=for-the-badge&logo=jetpackcompose)
