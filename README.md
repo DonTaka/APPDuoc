@@ -7,13 +7,6 @@
 
 Aplicación Android nativa, desarrollada con Kotlin y Jetpack Compose, que permite a los usuarios agendar y gestionar citas para sus mascotas con especialistas veterinarios de forma fácil y rápida. Este proyecto fue desarrollado como caso de estudio para aplicar las mejores prácticas de la industria en arquitectura, pruebas y despliegue.
 
-## 📸 Screenshots
-
-| Lista de Doctores                               | Formulario de Agendamiento                     | Pantalla de Confirmación                          |
-| ----------------------------------------------- | ---------------------------------------------- | ------------------------------------------------- |
-| ![Pantalla Lista de Doctores](URL_A_TU_SCREENSHOT_1.png) | ![Pantalla Formulario](URL_A_TU_SCREENSHOT_2.png) | ![Pantalla Confirmación](URL_A_TU_SCREENSHOT_3.png) |
-
-*(Nota: Reemplaza las URLs de arriba con las capturas de pantalla reales de tu aplicación).*
 
 ## ✨ Características Principales
 
